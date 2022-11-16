@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Frosssty
-- 👀 I’m interested in coding and sports
+- 👀 I’m interested in Game Programing
 - 🌱 I’m currently learning C# 
 - 📫 How to reach me danail.gigov@gmail.com
 
